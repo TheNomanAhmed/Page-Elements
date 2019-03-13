@@ -7,4 +7,3 @@ xxx
 .........
 sassa
 s
-ss
